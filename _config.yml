@@ -3,8 +3,8 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: OpenAI-ChatGPT 指南 | 账号注册、账号升级、ai 资讯
-subtitle: 'asdasd'
+title: AI Panda | ChatGPT 账号注册、账号升级、ai 资讯
+subtitle: ''
 description: 'openai, chatgpt, chatgpt plus, chatgpt 账号升级, 虚拟信用卡, ai 资讯'
 keywords: openai, chatgpt, chatgpt plus, chatgpt3.5, chagpt4, sora, 账号注册, 账号升级， 虚拟信用卡
 author: AI Panda
@@ -14,7 +14,7 @@ timezone: 'Asia/Shanghai'
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: https://aipanda-chatgpt.github.io/
-permalink: :year/:month/:day/:title/
+permalink: :year/:month/:day/:title/  #在文档的 front-matter 中可修改此路径，这个是默认文档读取的路径
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
