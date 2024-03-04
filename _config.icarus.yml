@@ -318,6 +318,16 @@ widgets:
         # Whether to show tags count, i.e. number of posts in the tag.
         show_count: true
     
+    -
+        position: right
+        type: profile
+        author: ' '
+        author_title: 'GPT Plus 代充 | 成品号购买'
+        # location: guangdong, China
+        avatar: /img/WeChat_Code.png
+        avatar_rounded: false
+        # gravatar: 
+    
     # Google FeedBurner email subscription widget configurations
     # -
     #     # Where should the widget be placed, left sidebar or right sidebar

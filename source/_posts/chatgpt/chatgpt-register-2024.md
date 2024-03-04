@@ -43,6 +43,4 @@ ChatGPT（Chat Generative Pre-trained Transformer）是由 OpenAI 研发的一�
 
 这个平台适合不懂技术或者不想折腾但是又想马上尽快体验到 ChatGPT，ChatGPT Plus 的朋友，且账号可靠，售后保证，使用起来十分省心，平台用户引导做得很到位，界面交互清晰明了。
 
-大家如果有任何问题，欢迎留言咨询，也可以提供账号购买，账号代充值～
-
-![](/img/chatgpt-register-2024.assets/WeChat_Code.jpg)
+大家如果有任何问题，欢迎联系咨询，也可以提供账号购买，账号代充值～
