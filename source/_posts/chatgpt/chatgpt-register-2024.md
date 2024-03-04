@@ -6,7 +6,6 @@ date: 2024-03-03 09:57:00
 cover:
 categories: chatgpt
 tags: chatgpt
-excerpt: '适合小白的 ChatGPT 账号一键注册教程！'
 ---
 
 # 什么是 ChatGPT
@@ -14,6 +13,8 @@ excerpt: '适合小白的 ChatGPT 账号一键注册教程！'
 ChatGPT（Chat Generative Pre-trained Transformer）是由 OpenAI 研发的一款聊天机器人程序，正式发布于2022年11月30日。它是一款人工智能技术驱动的自然语言处理工具，能够基于在预训练阶段所见的模式和统计规律来生成回答，并根据聊天的上下文进行互动，如同人类一样的交流方式。此外，它还具备智能搜索、文本生成、语言翻译、文本摘要、情感分析、知识问答等多种功能。
 
 简而言之，它是一个像人类一样可以理解你的语言并解答你问题的机器人，无论你有什么疑问，向 ChatGPT 提问就能得到解答。
+
+<!-- more -->
 
 # 如何注册 ChatGPT
 

@@ -6,12 +6,11 @@ date: 2024-03-03 10:38:44
 cover:
 tags: chatgpt
 categories: chatgpt
-excerpt: '最新注册 ChatGPT 账号详细教程，本文将向大家解释，ChatGPT 是什么以及如何注册和使用 ChatGPT。'
 ---
 
-# 前言
-
 目前 ChatGPT 的火爆程度一直居高不下，相信大家无论有没有关注 ai 领域的都或多或少听说过这个名字，这都得益于它强大的功能且目前其能力仍领先国内大模型一大截，但是，ChatGPT 并不支持国内网络与国内用户，有许多刚接触的朋友可能对 ChatGPT 可能还不太了解，不知道如何才能体验 ChatGPT，本文将向大家解释，ChatGPT 是什么以及如何注册和使用 ChatGPT。
+
+<!-- more -->
 
 # 什么是 ChatGPT
 

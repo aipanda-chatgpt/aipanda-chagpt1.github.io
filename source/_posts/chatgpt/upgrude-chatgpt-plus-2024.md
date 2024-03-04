@@ -6,14 +6,11 @@ date: 2024-03-03 13:03:19
 cover:
 tags: chatgpt
 categories: chatgpt
-excerpt: '使用虚拟信用卡一键升级 ChatGPT Plus！'
 ---
 
-![img](/img/upgrude-chatgpt-plus-2024.assets/(null)-20240303130344314.(null))
-
-# 前言
-
 虽然目前 ChatGPT 4.0 已经推出了有一段时间了，但是由于众所周知的原因，国内仍有许多人还没有体验过 ChatGPT 4.0，本文将教你如何一键升级 ChatGPT Plus，但是在此之前，你首先需要有一个 ChatGPT 账号，如果还没有，可以参考注册教程：[**一键注册 ChatGPT 账号**](/chatgpt/chatgpt-register-2024-03/)。
+
+<!-- more -->
 
 # 为什么升级 ChatGPT Plus
 

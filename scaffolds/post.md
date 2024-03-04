@@ -6,5 +6,4 @@ cover:
 tags:
 permalink: {{ title }}/
 categories: 
-excerpt: ''
 ---
