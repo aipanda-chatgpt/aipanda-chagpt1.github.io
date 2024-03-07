@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: PandaMiner's Blog
+title: PandaMiner's Forest
 subtitle: ''
 description: 'openai, chatgpt, chatgpt plus, chatgpt 账号升级, 虚拟信用卡, ai 资讯'
 keywords: openai, chatgpt, chatgpt plus, chatgpt3.5, chagpt4, sora, 账号注册, 账号升级，虚拟信用卡
@@ -101,7 +101,11 @@ theme: icarus
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: git
-  repo: https://github.com/aipanda-chatgpt/aipanda-chatgpt.github.io.git
-  branch: main
-  message: update
+  - type: git
+    repo: https://github.com/aipanda-chatgpt/aipanda-chatgpt.github.io.git
+    branch: main
+    message: update
+
+# automatically generate sitemap
+sitemap:
+  path: sitemap.xml
