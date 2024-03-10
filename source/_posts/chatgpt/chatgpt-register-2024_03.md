@@ -72,4 +72,5 @@ ChatGPT（Chat Generative Pre-trained Transformer）是由 OpenAI 研发的一�
 
 如果你还是觉得以上的操作流程太过复杂与麻烦，可以参考这里一键注册的方法：[**一键注册 ChatGPT 账号**](/chatgpt-register-2024/)。
 
-
+> [一键升级 ChatGPT Plus](/upgrude-chatgpt-plus-2024/)
+> [如何注册 Onlyfans 与订阅](/how-to-useonlyfans/)
