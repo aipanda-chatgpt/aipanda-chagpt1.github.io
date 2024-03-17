@@ -3,11 +3,12 @@ title: Hexo + Github Pages 搭建个人博客详细教程
 toc: true
 permalink: use_hexo_and_github_pages_build_website/
 date: 2024-03-05 17:52:48
-cover:
+cover: /img/use-hexo-and-github-pages-build-website/cover.png
 tags:
     - hexo
     - github
 categories: 网站搭建
+excerpt: Hexo 是一个快速、简洁且高效的博客框架。它允许用户使用 Markdown 语言编写内容，并将其渲染为静态网页。它相当于与一个网站的主题模板，只需要做简单的配置就能够完成页面的渲染。其主要特点包括快速部署，Markdown 支持，灵活的布局，丰富的插件。
 ---
 
 # 什么是 Hexo
@@ -221,3 +222,4 @@ Hexo 编译生成的静态文件资源都默认存放在 public 目录下，这�
 
 > [一键升级 ChatGPT Plus](/upgrude-chatgpt-plus-2024/)
 > [如何注册 Onlyfans 与订阅](/how-to-useonlyfans/)
+> [如何发展副业](/how-to-have-side-job/)

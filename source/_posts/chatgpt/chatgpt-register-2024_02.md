@@ -3,7 +3,6 @@ title: 最新注册 ChatGPT 账号详细教程（免手机验证 ） |  2024.02
 toc: true
 permalink: /chatgpt/chatgpt-register-2024-02/
 date: 2024-02-28 21:38:44
-cover:
 tags: chatgpt
 categories: chatgpt
 updated: '2024-02-28 21:38:44'
@@ -76,3 +75,4 @@ ChatGPT（Chat Generative Pre-trained Transformer）是由 OpenAI 研发的一�
 
 > [一键升级 ChatGPT Plus](/upgrude-chatgpt-plus-2024/)
 > [如何注册 Onlyfans 与订阅](/how-to-useonlyfans/)
+> [如何发展副业](/how-to-have-side-job/)
