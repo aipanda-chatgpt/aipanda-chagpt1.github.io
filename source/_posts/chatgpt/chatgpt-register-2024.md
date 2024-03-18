@@ -49,5 +49,5 @@ ChatGPT（Chat Generative Pre-trained Transformer）是由 OpenAI 研发的一�
 大家如果有任何问题，欢迎联系咨询，也可以提供账号购买，账号代充值～
 
 > [一键升级 ChatGPT Plus](/upgrude-chatgpt-plus-2024/)
-> [如何注册 Onlyfans 与订阅](/how-to-useonlyfans/)
+> [注册与订阅 OnlyFans](/how-to-useonlyfans/)
 > [如何发展副业](/how-to-have-side-job/)
