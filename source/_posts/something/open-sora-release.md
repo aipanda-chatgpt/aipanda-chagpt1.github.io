@@ -4,15 +4,14 @@ toc: true
 permalink: open-sora-release/
 date: 2024-03-18 23:48:22
 cover: /img/open-sora-release.assets/cover.png
-keywords: open sora,sora
 tags: sora
 categories: sora
-excerpt: 不久前 OpenAI Sora 的发布可以说是震惊了世界，但是奈何目前 OpenAI 还未将 Sora 开放公测，但在昨天，我们却等来了 Open Sora 1.0 的发布，这是 Colossal-AI 团队的一个完全开源的视频生成项目，致力于高效制作高质量视频，并使所有人都能使用其模型、工具和内容的计划。
+excerpt: OpenAI Sora 替代品 Open Sora 发布！Colossal-AI 团队公布了其模型训练报告以及最新成果展示。
 ---
 
 不久前 OpenAI Sora 的发布可以说是震惊了世界，但是奈何目前 OpenAI 还未将 Sora 开放公测，但在昨天，我们却等来了 Open Sora 1.0 的发布，这是 Colossal-AI 团队的一个完全开源的视频生成项目，致力于高效制作高质量视频，并使所有人都能使用其模型、工具和内容的计划。 通过采用开源原则，Open-Sora 不仅实现了先进视频生成技术的低成本普及，还提供了一个精简且用户友好的方案，简化了视频制作的复杂性。
 
-# 模型训练报告
+## 模型训练报告
 
 以下是 Colossal-AI 团队提供的模型训练报告：
 
@@ -38,7 +37,7 @@ excerpt: 不久前 OpenAI Sora 的发布可以说是震惊了世界，但是奈�
 
 随着我们更加重视数据的质量，我们准备在下一个版本中收集更多数据并构建视频预处理管道。
 
-# 最新成果展示
+## 最新成果展示
 
 以下是经过压缩的视频 gif 动图以及简化的提示词：
 

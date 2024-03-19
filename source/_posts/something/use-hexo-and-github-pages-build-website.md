@@ -8,10 +8,10 @@ tags:
     - hexo
     - github
 categories: 网站搭建
-excerpt: Hexo 是一个快速、简洁且高效的博客框架。它允许用户使用 Markdown 语言编写内容，并将其渲染为静态网页。它相当于与一个网站的主题模板，只需要做简单的配置就能够完成页面的渲染。其主要特点包括快速部署，Markdown 支持，灵活的布局，丰富的插件。
+excerpt: 本文将向大家展示如何使用 Hexo 作为静态页面框架生成网页以及如何将网页部署到 Github Pages。
 ---
 
-# 什么是 Hexo
+## 什么是 Hexo
 
 Hexo 是一个快速、简洁且高效的博客框架。它允许用户使用 Markdown 语言编写内容，并将其渲染为静态网页。它相当于与一个网站的主题模板，只需要做简单的配置就能够完成页面的渲染。其主要特点包括快速部署，Markdown 支持，灵活的布局，丰富的插件。
 
@@ -19,13 +19,13 @@ Hexo 是一个快速、简洁且高效的博客框架。它允许用户使用 Ma
 
 官方文档：[Hexo 官方文档](https://hexo.io/zh-cn/docs/index.html)，包括插件库和主题库。
 
-# 环境准备
+## 环境准备
 
 - Git：电脑需要安装 Git。
 - Github：一个 Github 仓库。
 - Node.js：框架运行需要 Node.js 环境。
 
-# Hexo 安装
+## Hexo 安装
 
 执行命令安装 Hexo：
 
@@ -71,9 +71,9 @@ hexo server
 - source/_posts：文章的默认创建与读取目录。
 - themes：主题文件的默认安装目录。
 
-# 基本配置与文章发布
+## 基本配置与文章发布
 
-## 基本配置
+### 基本配置
 
 首先配置一些比较必要的网站基本配置，打开 _config.yml 文件，以下是部分需要关注的配置：
 
@@ -115,7 +115,7 @@ deploy:
   message: 
 ```
 
-## 文章发布
+### 文章发布
 
 在项目根目录下执行一下命令创建文档：
 
@@ -150,13 +150,13 @@ tags: test
 categories: test
 ---
 
-# Title
+## Title
 test
 ```
 
 ![](/img/use-hexo-and-github-pages-build-website/2.png)
 
-## 主题
+### 主题
 
 除了 Hexo 的默认主题，Hexo 支持自由切换主题，主题可以在官方网站上寻找，选择好一个主题后，安装其对应的 npm 插件（一般对应主题的文档都会教你如何执行与配置），在 _config.yml 的 theme 配置主题名称，重启服务，即可生效：
 
@@ -166,7 +166,7 @@ theme: themename
 
 通常每个主题都会有一个自己的主题样式配置文件，具体就参考每个主题的文档说明。
 
-# Github Pages 部署
+## Github Pages 部署
 
 Github Pages 是 Github 官方提供的一个静态站点托管服务，它允许用户将 GitHub 仓库中的代码转换为可访问的网站。借助 Github Pages，我们不需要购买服务器也能部署我们的网站。
 
@@ -214,7 +214,7 @@ Hexo 编译生成的静态文件资源都默认存放在 public 目录下，这�
 
 任务完成之后，就可以登录我们的网站查看啦~
 
-# 最后
+## 最后
 
 本站是我在 Github Pages 搭建的网站，使用的 Hexo 主题的是 icarus，小魔改了一下，可以作为参考。
 
