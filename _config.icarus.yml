@@ -107,7 +107,7 @@ navbar:
     menu:
         首页: /
         主题: /categories
-        历史: /archives
+        往期回顾: /archives
         # 标签: /tags
         # 关于: /about
     

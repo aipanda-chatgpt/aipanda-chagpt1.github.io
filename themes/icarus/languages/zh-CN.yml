@@ -1,7 +1,7 @@
 common:
     archive:
-        one: '历史'
-        other: '历史'
+        one: '往期回顾'
+        other: '往期回顾'
     category:
         one: '主题'
         other: '主题'
